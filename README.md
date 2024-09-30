@@ -1,4 +1,5 @@
-## Zomato Sales Analysis Report
+![zomato logo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/pngwing.com%20(3).png)
+##                                    Sales Analysis Report
 
 #### Dashboard Link : https://app.powerbi.com/groups/me/reports/552e450a-1dfa-4208-85ef-76324fb7edf0/a586f6ddcec325594383?experience=power-bi
 ## Overview
