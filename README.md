@@ -23,6 +23,18 @@ The report is built on sales data extracted from Zomato's internal databases, in
 - Power BI Desktop: Used for data visualization and report creation.
 - Data Transformation (Power Query): Performed data cleaning, merging, and transformation to prepare for visualization.
 
+### 1. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(54).png)
+
+### 2. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(55).png)
+
+### 3. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(56).png)
+
 
 ## Visuals Included
 - Bar Charts: Showing top-selling dishes, restaurants, and daily sales.
