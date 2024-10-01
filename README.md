@@ -28,13 +28,29 @@ The report is built on sales data extracted from Zomato's internal databases, in
 
 ![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(54).png)
 
+#### This page of dashboard is dedicated to give the user an overview of the project and it contains
+- Total number of orders,The rating and Amount
+- It seperated the sales data into three different category Veg,non-veg and other.
+- Total number of order made in a particular city.
+- Sales by year.
+
 ### 2. Snapshot of Dashboard 
 
 ![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(55).png)
 
+### User performance
+- Total customer gain or lost in a particular year.
+- A bar graph showing User by Age
+
+
 ### 3. Snapshot of Dashboard 
 
 ![dashboard_snapo](https://github.com/sahil-bishtgits/zomato-sales-powerbi-dashboard/blob/main/Screenshot%20(56).png)
+
+### City performance
+- Sales by city
+- User by city
+- Rating by city
 
 
 ## Visuals Included
